@@ -5,7 +5,7 @@ A fun and simple web app that fetches and displays **random GIFs** using the [GI
 
 ## 🌐 Live Demo
 
-👉 [](https://randomimagesss.netlify.app/) *
+👉 (https://randomimagesss.netlify.app/) 
 
 ## ✨ Features
 
